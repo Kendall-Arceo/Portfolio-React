@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.523f09c5.chunk.css",
+    "main.js": "/static/js/main.c26a4577.chunk.js",
+    "main.js.map": "/static/js/main.c26a4577.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b3488d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b3488d1.js.map",
+    "static/js/2.a3cd1ba5.chunk.js": "/static/js/2.a3cd1ba5.chunk.js",
+    "static/js/2.a3cd1ba5.chunk.js.map": "/static/js/2.a3cd1ba5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e1c53f2add5eb851babff406c53c5ff.js": "/precache-manifest.1e1c53f2add5eb851babff406c53c5ff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.a3cd1ba5.chunk.js.LICENSE.txt": "/static/js/2.a3cd1ba5.chunk.js.LICENSE.txt",
+    "static/media/Budget.jpeg": "/static/media/Budget.20872c8b.jpeg",
+    "static/media/Fitness.jpeg": "/static/media/Fitness.2c6b15cc.jpeg",
+    "static/media/Picture2.jpg": "/static/media/Picture2.ae65d1f9.jpg",
+    "static/media/Reading.jpeg": "/static/media/Reading.e8964f3b.jpeg",
+    "static/media/Resume.pdf": "/static/media/Resume.f33546c3.pdf",
+    "static/media/coin.png": "/static/media/coin.0ccd0c96.png",
+    "static/media/logo.jpg": "/static/media/logo.afc6f834.jpg",
+    "static/media/lovequestlogo.png": "/static/media/lovequestlogo.5f971db8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3488d1.js",
+    "static/js/2.a3cd1ba5.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.c26a4577.chunk.js"
+  ]
+}
